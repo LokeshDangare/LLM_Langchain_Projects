@@ -7,3 +7,7 @@
 2. conda activate llmapp
 
 3. pip install -r requirements.txt
+
+4. Set your GROQ_API_KEY inside .env file from : https://console.groq.com/login
+
+
