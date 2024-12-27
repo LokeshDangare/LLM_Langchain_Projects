@@ -10,4 +10,6 @@
 
 4. Set your GROQ_API_KEY inside .env file from : https://console.groq.com/login
 
+5. Create Agents from Tavily: https://tavily.com/
+
 
