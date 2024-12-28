@@ -12,4 +12,5 @@
 
 5. Create Agents from Tavily: https://tavily.com/
 
+6. Create LangChain Account to use LangSmith
 
